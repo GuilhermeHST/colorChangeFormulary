@@ -1,0 +1,17 @@
+#body{
+    width: 40vh;
+    display: flex;
+    /*justify-content: center;*/
+    flex-direction: column;
+    background-color: rgb(27, 24, 24);
+    padding: 2%;
+}
+
+input[type=text]{
+    width: 100%;
+}
+
+#botao button{
+    margin-top: 2%;
+    border-radius: 100%;
+}
